@@ -19,6 +19,14 @@ I followed [this tutorial on AppCoda](https://www.appcoda.com/message-sticker-ap
 
 And [this on Medium](https://medium.com/swiftist/wireless-debugging-xcode-b6e98e26e022) has instructions for testing (wirelessly!) on a real iOS device.
 
+### It's not working! I don't see any stickers when I open it on my phone!
+
+Yes, I had this issue too. Make sure your phone trusts your Apple account.
+
+Settings > General > Device Management > (your developer id here)
+
+Click "Trust"
+
 ## Is it on the App Store?
 
 Not yet. I've not paid Apple the $$$ for the privilidge.
