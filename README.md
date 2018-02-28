@@ -27,4 +27,4 @@ Not yet. I've not paid Apple the $$$ for the privilidge.
 
 - [ ] Get hi-res versions of the original images
 - [ ] Custom App/iMessage icons
-
+- [ ] Pay Apple $$$ to get this (free!) in the App Store
