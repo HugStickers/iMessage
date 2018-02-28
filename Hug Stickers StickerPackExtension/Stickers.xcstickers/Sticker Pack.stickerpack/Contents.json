@@ -1,0 +1,38 @@
+{
+  "stickers" : [
+    {
+      "filename" : "hugs_always.sticker"
+    },
+    {
+      "filename" : "hugs_definitely.sticker"
+    },
+    {
+      "filename" : "hugs_maybe.sticker"
+    },
+    {
+      "filename" : "hugs_meh.sticker"
+    },
+    {
+      "filename" : "hugs_never.sticker"
+    },
+    {
+      "filename" : "hugs_no.sticker"
+    },
+    {
+      "filename" : "hugs_please.sticker"
+    },
+    {
+      "filename" : "hugs_yes.sticker"
+    },
+    {
+      "filename" : "hugs.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
